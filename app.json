@@ -37,7 +37,7 @@
     "scheme": "growlink",
     "experiments": {
       "typedRoutes": false,
-      "baseUrl": "/growlink-mobile"
+      "baseUrl": "/growlink-demo"
     }
   }
 }
